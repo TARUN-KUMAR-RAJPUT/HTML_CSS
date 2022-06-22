@@ -305,4 +305,4 @@ Which explains the relationship between Selectors
 3. adjacent selector + 
 4. general sibling selctor (~)
 
-Thank you..
+Thank you for reading....

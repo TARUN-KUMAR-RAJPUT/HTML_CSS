@@ -22,6 +22,7 @@ Git Commands to push the code to remote repository
 13. git branch -d - To delet the branch
 
 
+
 git config --global --remove-section user  - To remove global name and email 
 
 
