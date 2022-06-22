@@ -62,6 +62,8 @@ style -        <style>
 link -         <link href="./styles.css" rel="stylesheet">
 
 3. Text Tags - <p>,<h1>..<h6>, <strong><em>
+
+....
 4. Link tags - <a>
 5. Image and Area - <img><area>
 6. List Tags - <ul>,<ol>,<li>
